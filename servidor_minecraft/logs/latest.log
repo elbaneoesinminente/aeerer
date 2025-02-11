@@ -157,3 +157,109 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [18:59:18] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> 7xp give TeeRobZti 100
 [18:59:20] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> que
 [18:59:42] [Server thread/INFO]: [Pirómano Spawner: Changed the block at -39, 42, -31]
+[19:00:22] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[19:00:22] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[19:00:25] [Server thread/INFO]: qSeren issued server command: /effect give @a minecraft:resistance infinite 255 true
+[19:00:25] [Server thread/INFO]: [qSeren: Applied effect Resistance to 2 targets]
+[19:00:29] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[19:00:29] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[19:00:32] [Server thread/INFO]: qSeren issued server command: /gamemode survival @a
+[19:00:32] [Server thread/INFO]: [qSeren: Set TeeRobZti's game mode to Survival Mode]
+[19:00:35] [Server thread/INFO]: qSeren issued server command: /difficulty hard
+[19:00:35] [Server thread/INFO]: [qSeren: The difficulty has been set to Hard]
+[19:00:42] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[19:00:42] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[19:00:42] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[19:00:42] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[19:00:45] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[19:00:45] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[19:01:05] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[19:01:05] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[19:01:13] [Server thread/INFO]: TeeRobZti issued server command: /msg qSeren tengo 22 de xp si me muer ocualquier cosa XD
+[19:01:18] [Server thread/INFO]: qSeren issued server command: /tp TeeRobZti
+[19:01:18] [Server thread/INFO]: [qSeren: Teleported qSeren to TeeRobZti]
+[19:01:44] [Server thread/INFO]: Named entity Pillager['Pirómano'/464, uuid='9de66cd8-f3ce-40bd-8578-90c9aede5d21', l='ServerLevel[world_nether]', x=-19.97, y=42.00, z=-14.30, cpos=[-2, -1], tl=209, v=true] died: Pirómano went off with a bang
+[19:01:45] [Server thread/INFO]: Named entity Skeleton['Pirómano'/456, uuid='2d93f655-5f8c-46ce-8d4b-a6465fb274ea', l='ServerLevel[world_nether]', x=-16.36, y=42.00, z=-15.55, cpos=[-2, -1], tl=318, v=true] died: Pirómano went off with a bang
+[19:01:46] [Server thread/INFO]: Named entity Pillager['Pirómano'/460, uuid='297a7c6f-ae6f-47db-b87b-51d2119ba189', l='ServerLevel[world_nether]', x=-16.55, y=42.00, z=-14.30, cpos=[-2, -1], tl=275, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:01:53] [Server thread/INFO]: Named entity Pillager['Pirómano'/493, uuid='c3594a13-e970-4f1b-9e12-de308f33efef', l='ServerLevel[world_nether]', x=-32.66, y=31.80, z=-39.43, cpos=[-3, -3], tl=270, v=true] died: Pirómano tried to swim in lava
+[19:01:54] [Server thread/INFO]: Named entity Pillager['Pirómano'/458, uuid='94bafaee-68e4-4ce2-8e64-4921af95a994', l='ServerLevel[world_nether]', x=-13.30, y=43.00, z=-15.30, cpos=[-1, -1], tl=463, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:02:00] [Server thread/INFO]: qSeren issued server command: /difficulty peaceful
+[19:02:00] [Server thread/INFO]: [qSeren: The difficulty has been set to Peaceful]
+[19:02:02] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[19:02:02] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[19:02:07] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[19:02:07] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[19:02:07] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[19:02:07] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[19:02:20] [Server thread/INFO]: TeeRobZti issued server command: /gamemode survival
+[19:02:20] [Server thread/INFO]: [TeeRobZti: Set own game mode to Survival Mode]
+[19:02:27] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at 3, 44, -17]
+[19:02:28] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at 1, 42, -33]
+[19:02:35] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -8, 42, -26]
+[19:02:40] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -31, 42, -35]
+[19:02:43] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -35, 42, -35]
+[19:02:47] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -32, 43, -26]
+[19:02:51] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -37, 42, -15]
+[19:02:54] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -44, 42, -26]
+[19:02:56] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -45, 42, -17]
+[19:02:59] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -46, 42, -32]
+[19:03:02] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[19:03:02] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[19:03:06] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[19:03:06] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[19:03:09] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[19:03:09] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[19:03:27] [Server thread/INFO]: qSeren issued server command: /difficulty hrd
+[19:03:28] [Server thread/INFO]: qSeren issued server command: /difficulty hard
+[19:03:28] [Server thread/INFO]: [qSeren: The difficulty has been set to Hard]
+[19:03:30] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[19:03:30] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[19:03:49] [Server thread/INFO]: qSeren issued server command: /gamemode survival
+[19:03:49] [Server thread/INFO]: [qSeren: Set own game mode to Survival Mode]
+[19:04:12] [Server thread/INFO]: Named entity Pillager['Pirómano'/612, uuid='feeaa781-df84-4e1b-a9bd-591e8ba7a570', l='ServerLevel[world_nether]', x=4.54, y=31.22, z=7.93, cpos=[0, 0], tl=268, v=true] died: Pirómano tried to swim in lava
+[19:04:13] [Server thread/INFO]: Named entity Pillager['Pirómano'/611, uuid='babc75cf-d95b-4b99-bc2b-6e2e29d554d3', l='ServerLevel[world_nether]', x=-1.78, y=31.72, z=1.40, cpos=[-1, 0], tl=296, v=true] died: Pirómano tried to swim in lava
+[19:04:14] [Server thread/INFO]: Named entity Pillager['Pirómano'/613, uuid='f3fba267-0f24-4007-8adc-f6071c1f378b', l='ServerLevel[world_nether]', x=4.28, y=31.12, z=4.70, cpos=[0, 0], tl=304, v=true] died: Pirómano tried to swim in lava
+[19:04:27] [Server thread/INFO]: Named entity Pillager['Pirómano'/624, uuid='88dedca7-dcca-4c75-aaac-d466026169b8', l='ServerLevel[world_nether]', x=3.95, y=42.00, z=-22.30, cpos=[0, -2], tl=300, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:04:31] [Server thread/INFO]: Named entity Skeleton['Pirómano'/630, uuid='dbc1180f-83cf-4f6a-aa85-27544e172a9a', l='ServerLevel[world_nether]', x=-12.79, y=43.00, z=-27.14, cpos=[-1, -2], tl=349, v=true] died: Pirómano went off with a bang
+[19:04:32] [Server thread/INFO]: Named entity Pillager['Pirómano'/665, uuid='c74c2d14-f8c7-4d42-a8f6-0e5748f9f46d', l='ServerLevel[world_nether]', x=-31.73, y=31.88, z=-39.33, cpos=[-2, -3], tl=202, v=true] died: Pirómano tried to swim in lava
+[19:04:35] [Server thread/INFO]: Named entity Pillager['Pirómano'/618, uuid='3b81cb52-59f2-4831-929d-0a3a2520944f', l='ServerLevel[world_nether]', x=-14.70, y=42.00, z=-31.16, cpos=[-1, -2], tl=538, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:04:36] [Server thread/INFO]: Named entity Pillager['Pirómano'/626, uuid='3c7d066c-4fb8-4370-a6aa-e0ce75859f64', l='ServerLevel[world_nether]', x=-14.70, y=42.00, z=-31.96, cpos=[-1, -2], tl=456, v=true] died: Pirómano went off with a bang
+[19:04:36] [Server thread/INFO]: Named entity Pillager['Pirómano'/617, uuid='fa0f5dd9-6945-4a5e-99fa-6a0d37494716', l='ServerLevel[world_nether]', x=-12.42, y=42.00, z=-34.14, cpos=[-1, -3], tl=584, v=true] died: Pirómano went off with a bang
+[19:04:43] [Server thread/INFO]: Named entity Pillager['Pirómano'/628, uuid='1536c478-facd-431c-9af5-ad7f2d5dd0b2', l='ServerLevel[world_nether]', x=-17.30, y=42.50, z=-24.95, cpos=[-2, -2], tl=608, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:04:43] [Async Chat Thread - #4/INFO]: [Not Secure] <TeeRobZti> DWSASFD'ONIADfNERSFM
+[19:04:44] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/684, uuid='aac7c7a3-3f2d-494d-92fe-87477e9d762d', l='ServerLevel[world_nether]', x=-3.80, y=30.00, z=-39.47, cpos=[-1, -3], tl=359, v=true] died: Guerrero Bruto tried to swim in lava
+[19:04:44] [Server thread/INFO]: Named entity Pillager['Pirómano'/625, uuid='8016fa10-b359-44d2-873b-0d41d568946a', l='ServerLevel[world_nether]', x=-14.51, y=43.00, z=-28.99, cpos=[-1, -2], tl=632, v=true] died: Pirómano went off with a bang
+[19:04:45] [Server thread/INFO]: Named entity Pillager['Pirómano'/673, uuid='ce0a5089-b567-422e-a5de-1c9c5e363725', l='ServerLevel[world_nether]', x=-5.46, y=42.00, z=-37.70, cpos=[-1, -3], tl=414, v=true] died: Pirómano went off with a bang
+[19:04:45] [Server thread/INFO]: Named entity Pillager['Pirómano'/616, uuid='19270bdb-9762-4026-ba67-e610ceddebbd', l='ServerLevel[world_nether]', x=-4.30, y=42.00, z=-34.30, cpos=[-1, -3], tl=755, v=true] died: Pirómano went off with a bang
+[19:04:45] [Server thread/INFO]: Named entity PiglinBrute['Guerrero Bruto'/683, uuid='7175ce00-79b2-42a9-8a76-77f7c4f5de8a', l='ServerLevel[world_nether]', x=-5.98, y=42.69, z=-37.69, cpos=[-1, -3], tl=376, v=true] died: Guerrero Bruto went off with a bang
+[19:04:46] [Server thread/INFO]: Named entity Pillager['Pirómano'/660, uuid='71de9af2-53ab-43c1-b7be-6851d1037959', l='ServerLevel[world_nether]', x=-8.70, y=42.00, z=-37.95, cpos=[-1, -3], tl=493, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:04:46] [Server thread/INFO]: Named entity Skeleton['Pirómano'/667, uuid='bec34bb3-b35c-4ebc-9011-b1167e06f9a8', l='ServerLevel[world_nether]', x=-40.50, y=42.50, z=-28.99, cpos=[-3, -2], tl=478, v=true] died: Pirómano went off with a bang
+[19:04:47] [Server thread/INFO]: Named entity Pillager['Pirómano'/698, uuid='35448475-65cb-4009-8fbe-2bf30284705c', l='ServerLevel[world_nether]', x=-37.64, y=42.00, z=-29.82, cpos=[-3, -2], tl=355, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:04:50] [Server thread/INFO]: Named entity Pillager['Pirómano'/632, uuid='221af834-6c37-4f21-af42-349d51da7a36', l='ServerLevel[world_nether]', x=-28.30, y=42.00, z=-36.70, cpos=[-2, -3], tl=702, v=true] died: Pirómano walked into the danger zone due to Pirómano
+[19:04:52] [Server thread/INFO]: Named entity Pillager['Pirómano'/674, uuid='ccd01890-e5d4-48aa-9db5-b478e058f48a', l='ServerLevel[world_nether]', x=-29.42, y=43.06, z=-25.28, cpos=[-2, -2], tl=558, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:04:57] [Server thread/INFO]: Named entity Pillager['Pirómano'/639, uuid='108ab79e-31e2-4dfc-9e50-fc5e36949cad', l='ServerLevel[world_nether]', x=-10.30, y=42.00, z=-27.70, cpos=[-1, -2], tl=805, v=true] died: Pirómano was shot by Pirómano
+[19:04:58] [Server thread/INFO]: Named entity Pillager['Pirómano'/734, uuid='a8c74fe3-b417-45ac-8149-65a07738ab2a', l='ServerLevel[world_nether]', x=-33.05, y=42.73, z=-27.70, cpos=[-3, -2], tl=467, v=true] died: Pirómano went off with a bang
+[19:04:58] [Server thread/INFO]: Named entity Skeleton['Pirómano'/883, uuid='2f3d2332-c187-4131-9028-5b01e04dddb1', l='ServerLevel[world_nether]', x=-26.70, y=42.00, z=-26.25, cpos=[-2, -2], tl=155, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:05:00] [Server thread/INFO]: Named entity Skeleton['Pirómano'/844, uuid='afbf080f-babe-4847-9cb7-adb84e972528', l='ServerLevel[world_nether]', x=-31.30, y=42.50, z=-27.68, cpos=[-2, -2], tl=281, v=true] died: Pirómano was slain by Guerrero Bruto
+[19:05:00] [Server thread/INFO]: qSeren issued server command: /difficulty peaceful
+[19:05:00] [Server thread/INFO]: [qSeren: The difficulty has been set to Peaceful]
+[19:05:07] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[19:05:07] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[19:05:44] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[19:05:44] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[19:05:46] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[19:05:46] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[19:05:47] [Server thread/INFO]: TeeRobZti issued server command: /tp qSeren
+[19:05:47] [Server thread/INFO]: [TeeRobZti: Teleported TeeRobZti to qSeren]
+[19:06:27] [Server thread/INFO]: qSeren issued server command: //brush deform sphere
+[19:06:56] [Server thread/INFO]: qSeren issued server command: //undo
+[19:06:57] [Server thread/INFO]: qSeren issued server command: //undo
+[19:06:57] [Server thread/INFO]: qSeren issued server command: //undo
+[19:06:58] [Server thread/INFO]: qSeren issued server command: //undo 100
+[19:09:28] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:09:36] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:09:44] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:09:49] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:09:57] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:10:03] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:10:07] [Server thread/INFO]: qSeren issued server command: //set sponge
