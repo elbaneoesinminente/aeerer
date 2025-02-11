@@ -263,3 +263,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [19:09:57] [Server thread/INFO]: qSeren issued server command: //set sponge
 [19:10:03] [Server thread/INFO]: qSeren issued server command: //set sponge
 [19:10:07] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:11:47] [Server thread/INFO]: qSeren issued server command: //replace sponge 25%blackstone,25%polished_blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[19:11:55] [Server thread/INFO]: qSeren issued server command: //replace sponge 25%blackstone,25%polished_blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[19:13:10] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:13:11] [Server thread/INFO]: TeeRobZti issued server command: /gamemode spectator
+[19:13:11] [Server thread/INFO]: [TeeRobZti: Set own game mode to Spectator Mode]
+[19:13:14] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[19:13:14] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[19:13:22] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:13:35] [Async Chat Thread - #6/INFO]: [Not Secure] <TeeRobZti> trabado
+[19:13:38] [Async Chat Thread - #6/INFO]: [Not Secure] <TeeRobZti> momo en tu mic
+[19:13:41] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:14:01] [Server thread/INFO]: qSeren issued server command: //set air
+[19:14:15] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:14:32] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:14:35] [Server thread/INFO]: TeeRobZti issued server command: //set 0
+[19:14:45] [Server thread/WARN]: qSeren moved too quickly! -28.008441186348886,-1.4950660194469805,-0.6854697135585699
+[19:15:02] [Server thread/INFO]: TeeRobZti issued server command: //set 0
+[19:15:07] [Server thread/INFO]: qSeren issued server command: //replace sponge 25%blackstone,25%polished_blackstone,25%polished_blackstone_bricks,25%cracked_polished_blackstone_bricks
+[19:15:39] [Server thread/INFO]: qSeren issued server command: /effect give qSeren speed infinite 3
+[19:15:39] [Server thread/INFO]: [qSeren: Applied effect Speed to qSeren]
+[19:16:22] [Server thread/WARN]: qSeren moved too quickly! -30.856363833392873,-0.8969506580833411,-18.409504863685722
+[19:18:39] [Server thread/WARN]: qSeren moved too quickly! -0.3480206722349859,0.0,19.106388942832304
+[19:18:43] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:18:51] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:19:18] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:19:31] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:20:03] [Server thread/INFO]: qSeren issued server command: //set sponge
+[19:20:09] [Server thread/INFO]: qSeren issued server command: //set sponge
