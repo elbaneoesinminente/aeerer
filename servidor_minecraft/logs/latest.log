@@ -126,3 +126,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 9:
 [18:44:53] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -18, 42, -16]
 [18:44:56] [Server thread/INFO]: [Pirómano Spawner: Changed the block at -18, 42, -37]
 [18:44:59] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at -40, 42, -38]
+[18:51:54] [Server thread/INFO]: qSeren issued server command: //copy
+[18:52:06] [Server thread/INFO]: qSeren issued server command: //paste
+[18:52:13] [Server thread/INFO]: qSeren issued server command: //undo
+[18:52:18] [Server thread/INFO]: qSeren issued server command: //paste
+[18:52:42] [Server thread/INFO]: qSeren issued server command: //paste
+[18:54:07] [Server thread/INFO]: qSeren issued server command: /gamemode spectator
+[18:54:07] [Server thread/INFO]: [qSeren: Set own game mode to Spectator Mode]
+[18:54:11] [Server thread/INFO]: qSeren issued server command: /gamemode creative
+[18:54:11] [Server thread/INFO]: [qSeren: Set own game mode to Creative Mode]
+[18:55:20] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at 7, 42, -16]
+[18:55:21] [Server thread/INFO]: [Pirómano Spawner: Changed the block at 5, 42, -19]
+[18:56:33] [Server thread/INFO]: [Pirómano Spawner: Changed the block at 5, 42, -19]
+[18:56:38] [Server thread/INFO]: [Guerrero Bruto Spawner: Changed the block at 5, 42, -19]
+[18:56:40] [Server thread/INFO]: [Pirómano Spawner: Changed the block at 5, 42, -19]
+[18:56:47] [Server thread/INFO]: [Torreta: Changed the block at 8, 42, -23]
+[18:58:29] [User Authenticator #1/INFO]: UUID of player TeeRobZti is 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[18:58:37] [Server thread/INFO]: TeeRobZti joined the game
+[18:58:37] [Server thread/INFO]: TeeRobZti[/100.65.212.51:50017] logged in with entity id 120 at ([world]1890.5751649393897, 87.0, -346.30000001192093)
+[18:58:38] [Server thread/INFO]: [voicechat] Received secret request of TeeRobZti (18)
+[18:58:38] [Server thread/INFO]: [voicechat] Sent secret to TeeRobZti
+[18:58:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[18:58:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 375e8eef-1b7d-320f-92ce-8498cff3acd8
+[18:58:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TeeRobZti (375e8eef-1b7d-320f-92ce-8498cff3acd8) successfully connected to voice chat
+[18:58:59] [Server thread/INFO]: qSeren issued server command: /op TeeRobZti
+[18:58:59] [Server thread/INFO]: [qSeren: Made TeeRobZti a server operator]
+[18:59:02] [Server thread/INFO]: TeeRobZti issued server command: /gamemode creative
+[18:59:02] [Server thread/INFO]: [TeeRobZti: Set own game mode to Creative Mode]
+[18:59:06] [Server thread/INFO]: [Pirómano Spawner: Changed the block at -33, 42, -17]
+[18:59:18] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> 7xp give TeeRobZti 100
+[18:59:20] [Async Chat Thread - #0/INFO]: [Not Secure] <TeeRobZti> que
+[18:59:42] [Server thread/INFO]: [Pirómano Spawner: Changed the block at -39, 42, -31]
