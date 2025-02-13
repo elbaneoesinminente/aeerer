@@ -126,9 +126,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-12 23:36:06 +0000",
       "minecraft:skeleton": "2025-02-08 00:18:58 +0000",
       "minecraft:elder_guardian": "2025-02-12 04:30:49 +0000",
       "minecraft:guardian": "2025-02-12 04:25:01 +0000",
+      "minecraft:phantom": "2025-02-12 23:14:09 +0000",
       "minecraft:enderman": "2025-02-08 00:25:45 +0000",
       "minecraft:spider": "2025-02-08 00:17:51 +0000",
       "minecraft:zombie": "2025-02-07 23:48:10 +0000",
@@ -795,6 +797,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-07 23:44:03 +0000",
       "bread": "2025-02-08 01:50:20 +0000",
+      "golden_apple": "2025-02-12 23:23:31 +0000",
       "cooked_chicken": "2025-02-08 00:57:46 +0000",
       "cooked_mutton": "2025-02-08 00:39:03 +0000",
       "cooked_beef": "2025-02-07 23:54:43 +0000",
@@ -1693,109 +1696,19 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-12 04:39:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:30:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-12 03:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-12 03:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-02-12 04:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-12 04:25:07 +0000"
+      "has_dandelion": "2025-02-12 02:23:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-12 02:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-02-12 02:55:52 +0000"
     },
@@ -1813,9 +1726,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "has_glow_ink_sac": "2025-02-12 04:23:58 +0000"
+      "has_redstone": "2025-02-12 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-12 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-12 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-12 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-12 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-12 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-12 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-12 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-12 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone": "2025-02-12 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/repair_wolf_armor": {
+    "criteria": {
+      "repair_wolf_armor": "2025-02-12 03:48:27 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-02-12 03:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-02-12 03:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-12 04:11:25 +0000"
     },
     "done": true
   },
@@ -1825,9 +1816,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_wet_sponge": "2025-02-12 04:30:54 +0000"
+      "has_glow_ink_sac": "2025-02-12 04:23:58 +0000"
     },
     "done": true
   },
@@ -1837,27 +1828,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:30:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:30:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-02-12 02:23:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-02-12 04:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-02-12 04:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-02-12 04:24:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2025-02-12 04:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-12 04:25:07 +0000"
     },
     "done": true
   },
@@ -1873,105 +1870,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-02-12 03:19:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-02-12 03:19:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
-    "criteria": {
-      "has_tide_armor_trim_smithing_template": "2025-02-12 04:30:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2025-02-12 04:37:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:30:41 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/obtain_an_ender_pearl": {
-    "criteria": {
-      "criteria": "2025-02-12 03:55:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-02-12 03:19:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/repair_wolf_armor": {
-    "criteria": {
-      "repair_wolf_armor": "2025-02-12 03:48:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2025-02-12 04:24:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-12 04:27:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_redstone": "2025-02-12 03:19:27 +0000"
-    },
-    "done": true
-  },
-  "stellarity:recipes/leather_from_membranes": {
-    "criteria": {
-      "has_item": "2025-02-12 04:24:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-02-12 03:21:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2025-02-12 04:30:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-12 04:30:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-02-12 03:55:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-02-12 03:19:27 +0000"
+      "has_cod": "2025-02-12 04:27:14 +0000"
     },
     "done": true
   },
@@ -1981,21 +1888,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-02-12 04:11:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-02-12 04:27:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
-      "has_prismarine_bricks": "2025-02-12 04:24:22 +0000"
+      "has_prismarine": "2025-02-12 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-12 04:30:41 +0000"
     },
     "done": true
   },
@@ -2005,21 +1930,351 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
-      "has_glowstone": "2025-02-12 03:21:29 +0000"
+      "has_wet_sponge": "2025-02-12 04:30:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
-      "has_redstone": "2025-02-12 03:19:27 +0000"
+      "has_tide_armor_trim_smithing_template": "2025-02-12 04:30:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_bone_meal": "2025-02-12 02:55:52 +0000"
+      "has_smithing_trim_template": "2025-02-12 04:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-02-12 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 00:05:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-12 23:32:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-12 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-02-12 23:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-12 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-12 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-12 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-12 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-12 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-12 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-12 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "share:boss/wither_king": {
+    "criteria": {
+      "requirement": "2025-02-12 23:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-12 23:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-12 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-12 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-02-12 23:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-12 23:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-12 23:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-12 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-02-12 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "share:boss/spawn_witherking": {
+    "criteria": {
+      "requirement": "2025-02-12 23:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-12 23:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-12 23:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-12 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_grate": "2025-02-12 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-12 23:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-12 23:38:05 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_trident_trial_monument": {
+    "criteria": {
+      "ttm": "2025-02-12 23:13:54 +0000"
     },
     "done": true
   },
